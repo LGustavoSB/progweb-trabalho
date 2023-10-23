@@ -1,4 +1,4 @@
-<h1>Trabalho de Programação Web</h1>
+<h1>Trabalho de Programação Web - Elephant</h1>
 
 <h3>Participantes:</h3>
 <ul>
