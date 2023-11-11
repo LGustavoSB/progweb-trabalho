@@ -1,0 +1,160 @@
+/* desktop */
+@media (min-width: 1281px) {
+  #login {
+    align-items: center;
+  }
+
+  #box {
+    margin-bottom: 10px;
+    font-weight: bold;
+    box-sizing: border-box;
+    width: 25rem;
+    min-height: 540px;
+    border-radius: 8px;
+    border-color: rgb(225, 227, 234);
+    background-color: #121122;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: rgba(18, 28, 45, 0.2) 0px 4px 16px 0px;
+    padding: 1rem;
+  }
+
+  #title_login img {
+    box-sizing: border-box;
+    height: 200px;
+    margin-bottom: 1.75rem;
+  }
+
+  #title_login h1 {
+    font-family: "Montserrat";
+    margin: 0px;
+    padding: 0px;
+    color: #ed009c;
+    font-size: 1.1rem;
+    line-height: 2rem;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+    display: block;
+  }
+
+  .login_input {
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+  }
+
+  .button_login {
+    width: 97%;
+    height: 3.4375em;
+    padding: 5px;
+  }
+
+  #submit_login {
+    box-sizing: border-box;
+    width: 98%;
+    appearance: none;
+    background: #ed009c;
+    display: inline-block;
+    border: none;
+    outline: none;
+    transition: background-color 100ms ease-in 0s, box-shadow 100ms ease-in 0s,
+      color 100ms ease-in 0s;
+    font-family: "Montserrat";
+    font-weight: 600;
+    text-decoration: none;
+    position: relative;
+    margin: 0px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: "Montserrat";
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    height: 2.9375em;
+  }
+
+  #title_usuario_invalido_box p {
+    font-family: "Montserrat";
+    color: #c72323;
+  }
+}
+
+/* mobile */
+@media (max-width: 1281px) {
+  #login {
+    align-items: center;
+  }
+
+  #box {
+    margin-bottom: 20px;
+    font-weight: bold;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    border-color: rgb(225, 227, 234);
+    background-color: #121122;
+    border-style: solid;
+    border-width: 1px;
+    box-shadow: rgba(18, 28, 45, 0.2) 0px 4px 16px 0px;
+    padding: 1rem;
+    padding-top: 50%;
+  }
+
+  #title_login img {
+    box-sizing: border-box;
+    height: 600px;
+    margin-bottom: 1.75rem;
+    margin-top: -30%;
+  }
+
+  #title_login h1 {
+    font-family: "montserrat";
+    margin: 44px;
+    padding: 0px;
+    color: #ed009c;
+    font-size: 40px;
+    line-height: 2rem;
+    letter-spacing: -0.02em;
+    display: block;
+  }
+
+  .login_input {
+    box-sizing: border-box;
+    margin-bottom: 2rem;
+  }
+
+  .button_login {
+    width: 97%;
+    height: 105px;
+    font-size: 30px;
+    padding: 5px;
+  }
+
+  #submit_login {
+    box-sizing: border-box;
+    width: 98%;
+    appearance: none;
+    background: #ed009c;
+    display: inline-block;
+    border: none;
+    outline: none;
+    transition: background-color 100ms ease-in 0s, box-shadow 100ms ease-in 0s,
+      color 100ms ease-in 0s;
+    font-family: "montserrat";
+
+    text-decoration: none;
+    position: relative;
+    margin: 0px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+    font-family: "montserrat";
+
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 40px;
+    line-height: 1.25rem;
+    height: 2.9375em;
+  }
+}
