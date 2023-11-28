@@ -2,14 +2,22 @@
 
 <h3>Participantes:</h3>
 <ul>
-  <li>Gustavo Bernardes de Matos</li>
-  <li>Ian Biagio Stringhini Nardini</li>
-  <li>Luís Gustavo da Silva Batista</li>
+  <li>Gustavo Bernardes de Matos (22215423)</li>
+  <li>Ian Biagio Stringhini Nardini (22100902)</li>
+  <li>Luís Gustavo da Silva Batista (22200507)</li>
 </ul>
+
+<p>Link para repositório (GitHub):</p>
+https://github.com/LGustavoSB/progweb-trabalho
+
+<p>Link para o site</p>
+http://15.228.10.60/
 
 <h3>Plano:</h3>
 <p>Elephant - Plataforma de estágios. Planejamos faze-la baseada na linguagem PHP, por isso o nome.</p>
-<p>2 Usuarios: Candidato e Empresa</p>
-<p>Empresa - Posta Vagas: Requisitos, descrição, tipo de vaga (CLT, MEI, PJ)</p>
-<p>Candidato - Procura Vagas: Habilidades, localização, tipo de vaga, área</p>
-<p>Et</p>
+<p>2 Usuarios: Estagiário e Empresa</p>
+<p>Empresa - Recebe pedidos de interesse dos estagiários: Descrição da empresa, sede e setor</p>
+<p>Estagiário - Demonstra interesse em empresas: Habilidades, descrição, nome, formação</p>
+
+<h3>Desenvolvimento:</h3>
+<p>Breve descrição</p>
