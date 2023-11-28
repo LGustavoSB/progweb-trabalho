@@ -16,6 +16,9 @@
 <p>2 Usuarios: Estagiário e Empresa</p>
 <p>Empresa - Recebe pedidos de interesse dos estagiários: Descrição da empresa, sede e setor</p>
 <p>Estagiário - Demonstra interesse em empresas: Habilidades, descrição, nome, formação</p>
+<p>Chat - Comunicação entre os dois tipos de usuario</p>
 
 <h3>Desenvolvimento:</h3>
-<p>Breve descrição</p>
+<p>Feito via uma plataforma de servidor WinSCP, no começo do projeto desenvolvemos via commit, posteriormente para facilitar o desenvolvimento
+conjunto ultilizamos a plataforma que viamos o progresso atual e para testes. Optamos por ultilizar desenvolvimento via servidor
+pela facilidade de ver o armazenamento no banco de dados feito em MySQL usando a ferramenta dbeaver.</p>
