@@ -7,11 +7,9 @@
   <li>Luís Gustavo da Silva Batista (22200507)</li>
 </ul>
 
-<p>Link para repositório (GitHub):</p>
-https://github.com/LGustavoSB/progweb-trabalho
+<p>Link para repositório (GitHub):</p> https://github.com/LGustavoSB/progweb-trabalho
 
-<p>Link para o site</p>
-http://15.228.10.60/
+<p>Link para o site:</p> http://15.228.10.60/
 
 <h3>Plano:</h3>
 <p>Elephant - Plataforma de estágios. Planejamos faze-la baseada na linguagem PHP, por isso o nome.</p>
